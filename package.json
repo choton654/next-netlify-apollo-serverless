@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "apollo-server-express": "^2.18.2",
+    "apollo-server-lambda": "^2.18.2",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "faunadb": "^3.0.1",
+    "graphql": "^15.3.0",
+    "mongoose": "^5.10.9",
     "next": "9.5.5",
     "react": "16.14.0",
-    "react-dom": "16.14.0"
-  }
+    "react-dom": "16.14.0",
+    "serverless-http": "^2.6.0"
+  },
+  "devDependencies": {}
 }
